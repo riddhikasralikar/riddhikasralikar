@@ -1,3 +1,4 @@
+```python
 riddhi = {
     "studying":  "B.A. Computer Science @ Boston University (May 2027)",
     "leading":   "data-driven journalism projects @ BU Spark!",
@@ -5,7 +6,7 @@ riddhi = {
     "offline":   ["hiking", "running", "baking"],
     "goal":      "build beautiful tech",
 }
-
+```
 
 
 <!--
