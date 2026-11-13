@@ -3,7 +3,7 @@ riddhi = {
     "languages": ["Go", "Python", "Java", "TypeScript", "JavaScript", "SQL", "HTML/CSS"],
     "leading":   "data-driven journalism projects @ BU Spark!",
     "offline":   ["hiking", "running", "baking"],
-    "goal":      "build beautiful tech",
+    "goal":      "to build beautiful tech",
 }
 ```
 <picture>
