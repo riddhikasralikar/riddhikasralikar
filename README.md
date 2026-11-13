@@ -1,4 +1,12 @@
-## Hi there 👋
+riddhi = {
+    "studying":  "B.A. Computer Science @ Boston University (May 2027)",
+    "leading":   "data-driven journalism projects @ BU Spark!",
+    "languages": ["Go", "Python", "Java", "TypeScript", "JavaScript", "SQL", "HTML/CSS"],
+    "offline":   ["hiking", "running", "baking"],
+    "goal":      "build beautiful tech",
+}
+
+
 
 <!--
 **riddhikasralikar/riddhikasralikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
