@@ -6,7 +6,10 @@ riddhi = {
     "goal":      "build beautiful tech",
 }
 ```
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" />
+</picture>
 
 <!--
 **riddhikasralikar/riddhikasralikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
