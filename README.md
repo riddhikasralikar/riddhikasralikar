@@ -1,8 +1,7 @@
 ```python
 riddhi = {
-    "studying":  "B.A. Computer Science @ Boston University (May 2027)",
-    "leading":   "data-driven journalism projects @ BU Spark!",
     "languages": ["Go", "Python", "Java", "TypeScript", "JavaScript", "SQL", "HTML/CSS"],
+    "leading":   "data-driven journalism projects @ BU Spark!",
     "offline":   ["hiking", "running", "baking"],
     "goal":      "build beautiful tech",
 }
