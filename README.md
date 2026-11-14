@@ -1,8 +1,8 @@
 ```python
 riddhi = {
-    "languages": ["Go", "Python", "Java", "TypeScript", "JavaScript", "SQL", "HTML/CSS"],
-    "leading":   "data-driven journalism projects @ BU Spark!",
+    "languages": ["Python", "Java", "Go", "HTML/CSS", "JavaScript", "TypeScript", "SQL"],
     "offline":   ["hiking", "running", "baking"],
+    "leading":   "six data-driven journalism projects @ BU Spark!",
     "goal":      "to build beautiful tech",
 }
 ```
