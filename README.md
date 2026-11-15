@@ -2,7 +2,7 @@
 riddhi = {
     "languages": ["Python", "Java", "Go", "HTML/CSS", "JavaScript", "TypeScript", "SQL"],
     "offline":   ["hiking", "running", "baking"],
-    "reading":   ["What I Talk About When I Talk About Running" (Haruki Murakami), "Stoner" (John Williams)]
+    "reading":   ["What I Talk About When I Talk About Running" by Haruki Murakami, "Stoner" by John Williams]
     "leading":   "six data-driven journalism projects @ BU Spark!",
     "goal":      "to build beautiful tech",
 }
