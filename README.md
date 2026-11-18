@@ -9,6 +9,7 @@ riddhi = {
 ```
 <div align="center">
   <img src="ascii-art-1795036161211-ezgif.com-crop.gif" alt="ASCII Art" width="600" />
+    <p> my remake of the WNYC transmitter park mural by faile in ascii <p>
 </div>
 
 <picture>
