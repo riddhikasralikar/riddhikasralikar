@@ -7,6 +7,10 @@ riddhi = {
     "goal":      "to build beautiful tech",
 }
 ```
+<div align="center">
+  <img src="ascii-art-1795036161211.gif" alt="ASCII Art" width="600" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddhikasralikar/riddhikasralikar/output/snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/riddhikasralikar/riddhikasralikar/output/snake.svg" />
