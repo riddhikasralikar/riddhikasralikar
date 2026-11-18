@@ -8,7 +8,7 @@ riddhi = {
 }
 ```
 <div align="center">
-  <img src="ascii-art-1795036161211.gif" alt="ASCII Art" width="600" />
+  <img src="ascii-art-1795036161211-ezgif.com-crop.gif" alt="ASCII Art" width="600" />
 </div>
 
 <picture>
