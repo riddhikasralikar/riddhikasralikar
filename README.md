@@ -1,6 +1,6 @@
 ```python
 riddhi = {
-    "languages": ["Python", "Java", "Go", "HTML/CSS", "JavaScript", "TypeScript", "SQL"],
+    "languages": ["Java", "Python", "Go", "HTML/CSS", "JavaScript", "TypeScript", "SQL"],
     "offline":   ["hiking", "running", "baking"],
     "reading":   ["What I Talk About When I Talk About Running by Haruki Murakami", "Stoner by John Williams"]
     "leading":   "six data-driven journalism projects for the Justice Media co-Lab course @ BU Spark!",
